@@ -52,7 +52,7 @@ ul li.active a
 .title
 {
     position: absolute;
-    top: 30%;
+    top: 32%;
     left: 15%;
     transform: translate(-50%-50%);
 }
@@ -60,5 +60,35 @@ ul li.active a
 {
     color: #fff;
     font-size: 150px;
-    font-family: 'parry-hotter.regular.ttf';
+    font-family: 'parry hotter';
 }
+.description
+{
+    position: absolute;
+    top: 67%;
+    left: 40%;
+    transform: translate(-50%-50%);
+}
+.description h1
+{
+    color: #fff;
+    font-size: 25px;
+    font-family: 'calibri light';
+}
+.lbutton
+{
+    width: 10px;
+    height: 10px;
+    position: fixed; 
+    top: 60%;
+    left: 30%;
+    
+}
+.rbutton
+{
+    width: 10px;
+    height: 10px;
+    position: fixed; 
+    top: 60%;
+    left: 50%;
+ 
